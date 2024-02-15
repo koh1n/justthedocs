@@ -3,33 +3,118 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Yleistä
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Haaga-Helian opettajat HHO ry on Haaga-Helia ammattikorkeakoulun opettajayhdistys. HHO ry:n toiminnassa yhdistyvät edunvalvonta ja yhdessä toimiminen eri muodoin.
 
-More specifically, the created site:
+Yhdistyksen palvelulupaus: HHO ry on lähellä jäseniään toimiva aktiivinen ja monialainen yhteisö, joka edistää laadukkaan ja mielekkään työskentelyn edellytyksiä pitkäjänteisesti yhdessä työnantajan ja yhteistyökumppaneidensa kanssa.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+## Jäsenyys
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+HHO ry:n jäsenenä tutustut kollegoihisi yhteisissä tapaamisissa ja virkistystoiminnassa ja – mikä tärkeintä – kuulut näin myös paikallisen edunvalvonnan piiriin.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+HHO ry kuuluu jäsenjärjestönä [SKO ry](https://sko.oaj.fi/):hyn (Suomen korkeakoulujen ja toisen asteen opettajat ry) ja sitä kautta vieläkin isompaan yhteisöön osana OAJ:n jäsenjärjestöjä. OAJ:n jäsenyyssivuilla onkin paljon lisätietoa asiasta. Monet etujärjestöt tukevat myös rinnakkaisjäsenyyttä toisen Akavan jäsenjärjestön kanssa. Ammattiliiton kautta on lisäksi tarjolla mitä moninaisimpia jäsenetuja. Tietoa jäsenmaksusta löytyy SKO:n Jäseneksi liittyminen -sivulta.
 
-To get started with creating a site, simply:
+Jäsenyyden hyödyt ovat moninaiset.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+Voit liittyä Haaga-Helian opettajiin täyttämällä ensin OAJ:n liittymislomakkeeseen omat perustietosi. Saat antamaasi sähköpostiosoitteeseen paluupostissa linkin, jossa pääset täyttämään yhdistyksesi tiedot. Valitse lomakkeessa
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+työnantajaksi Haaga-Helia ammattikorkeakoulu Oy;
+opettajayhdistykseksi Haaga-Helian opettajat HHO ry;
+alueyhdistykseksi OAJ:n Pääkaupunkiseudun alueyhdistys ry;
+valtakunnalliseksi yhdistykseksi SKO ry.
+Jos aiot rinnakkaisjäseneksi (esim. jäsenyys OAJ:ssa ja Suomen Ekonomeissa), laita lopuksi rasti lomakkeen viimeiseen laatikkoon ja valitse listasta rinnakkaisyhdistys, johon haluat OAJ:n lisäksi liittyä.
+Lisätietoja ja ohjeita jäseneksi liittymisestä löytyy OAJ:n Liity jäseneksi! -sivulta sekä OAJ:n jäseneksi liittymisen ohjevideosta.
 
-----
+Jos tietosi muuttuvat, päivitä muuttuneet tiedot OAJ:n jäsentietosivujen kautta:
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+Jäsentietosivut → Kirjaudu Omat tiedot –osioon → Muokkaa
+niin ne päivittyvät myös HHO ry:lle.
+Eroaminen yhdistyksestä (myös eläköitymisen yhteydessä) tapahtuu sekin OAJ:n jäsentietosivujen kautta.
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+Mietitkö eläkkeelle jäämistä tai oletko päätöksen jo tehnyt? Mitä tulee ottaa huomioon, kun harkitsee eläkkeelle siirtymistä.
+
+## Ajankohtaista jäsenille
+
+Yhdistyksen yhteisistä tapahtumista ja toiminnasta tiedotetaan myös näillä sivuilla.
+
+Opettajien kesävapaa ma 12.6. – pe 4.8.2023
+
+Yhdistys osallistuu tapahtumaan Smaku Festivals Porvoo torstaina 31.8.2023.
+Syksyn 2023 yhdistyskokous pidetään Pasilan toimipisteen luokassa PA/6211 tiistaina 3.10.2023 klo 17.00 alkaen. Kaikki jäsenet ovat tervetulleita. Ilmoittaudu viimeistään maanantaina 25.9.
+
+&nbsp; SKO ry:n ajankohtaista -sivu <br>
+&nbsp; SKO-toimijapäivät 9.–10.9.2023.<br>
+&nbsp; SKO:n jäsenkampanja 2023 <br>
+&nbsp; OAJ ry:n ajankohtaista -sivu <br>
+&nbsp; OAJ Pääkaupunkiseutu ry:n ajankohtaista -sivu <br>
+&nbsp; Yhdistyksen tapahtumakalenteri <br>
+&nbsp; Yhdistyksen vuosikello <br>
+
+Kuvia viimeaikaisista tapahtumista
+Kuvia vanhemmista tapahtumista
+
+## HHO ry –yhdistystoimintaa
+
+Tähän osioon kootaan ajankohtaisia yhdistystoimintaan liittyviä asioita.
+Ajankohtaista
+Syksyn 2023 yhdistyskokous pidetään Pasilan toimipisteessä tiistaina 3.10. klo 17 alkaen. Kaikki jäsenet ovat tervetulleita. Ilmoittaudu viimeistään ma 25.9., jotta tarjoilut riittävät.
+Yhdistystoiminnan julkisia materiaaleja
+Yhdistyksen säännöt (pdf)
+HHO ry:n tietosuojaseloste (pdf, päivitetty viimeksi 30.1.2023)
+Kokousten pöytäkirjat ja liitteet on koottu omalle sivulleen. Viralliset allekirjoitetut versiot löytyvät yhdistyksen vastuuhenkilöiltä. Lisäksi sivulta löytyy kuvauksia ja raportteja SKO:n tapahtumista, jos yhteyshenkilö on kuvauksen tehnyt.
+Yhdistyksen tapahtumien järjestäminen ja laskutukset
+
+## Haaga-Helia amk –tietoutta jäsenille
+
+Seuraavassa on listattu linkkejä jäsenille usein hyödyllisiin tietolähteisiin. Haaga-Helia amk:n verkkotunnus vaaditaan useimpiin.
+Haaga-Helia amk:n esitteet ja vuosikertomukset
+Opetuksen työkalupakki
+Opettajan työn mitoitus ja lukuvuoden ajoitus
+Vanha intra: Työsuhdeasiat
+Lomat ja muut poissaolot
+Työaika
+Vanhuus- ja osittainen vanhuuseläke
+Työsuojelu
+
+## Linkkejä muualle ja muita kiinnostavia tapahtumia
+
+SKO ry, Suomen korkeakoulujen ja toisen asteen opettajat ry
+Rinnakkaisjäsenyyskampanja: SKO/OAJ ja Suomen Ekonomit suosittelevat rinnakkaisjäsenyyttä. SKO ja OAJ tulevat vastaan ensimmäisen vuoden uusissa jäsenmaksuissa. Tarkista tilanne liittyessäsi, sen uudistamisesta päätetään vuosittain.
+Opetusalan ammattijärjestö OAJ ry
+Jäsenyyssivut
+Työhyvinvoinnin lukuvuosi 2019–2020
+Työelämäopas
+Akava
+Työehtosopimus 2022–2024, Liite 2
+Sivistystyönantaja Sivista
+Yksityisen opetusalan työehtosopimus
+Yksityisen opetusalan palkkataulukot
+Arjen tietosuojaa: Opiskele keväällä 2018 voimaan tulevan tietosuojalain asioita ja hanki itsellesi todistus tietosuojaosaamisesta.
+OpeRight – tekijänoikeus opetustyössä
+Liikesivistysrahasto
+SKO:n Juhlarahaston apurahat
+Jäsenedut ovat muuttuneet Akavan Member+-verkkopalveluun –– Rekisteröidy ensin palvelun käyttäjäksi.
+Kuvia Helsingin SKO-päiviltä 2016
+Lentopallojoukkueen terveiset Oulusta. ⛹
+
+## Yhteystiedot
+
+Yhdistyksen tämänhetkisen toiminnan vastuuhenkilöt on koottu omalle sivulleen.
+Osoite:
+Haaga-Helian opettajat HHO ry
+Haaga-Helia ammattikorkeakoulu
+Pasilan toimipiste / Ratapihantie 13
+FI-00520 Helsinki
+Yhteydenottolomake
+Ei yleistä vastaanottoaikaa.
+
+Y-tunnus 3045689-3
+
+Opettajayhdistyksen muita viestintäkanavia ovat
+
+HHO ry @Teams
+HHO ry @Instagram
+HHO ry @ Haaga-Helia Yammer
+HHO ry @Telegram
+
